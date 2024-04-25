@@ -21,3 +21,9 @@
     display: block;
     margin: auto;
 }
+.texto{
+    text-align: center;
+    font-size: medium;
+    font-family: monospace;
+    color: black;
+}
