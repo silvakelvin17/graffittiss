@@ -1,5 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.cabeçalho{
+    background-color: yellow;
+}
+
+
 .titulo{
     font-size: 25px;
     color: greenyellow;
     font-family: monospace;
+    text-align: center;
 }
