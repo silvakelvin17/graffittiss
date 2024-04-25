@@ -4,6 +4,8 @@
 }
 
 .cabecalho{
+    text-align: center;
+    font-size: 25px;
     background-color: yellow;
 }
 
@@ -13,4 +15,9 @@
     color: greenyellow;
     font-family: monospace;
     text-align: center;
+}
+
+.imagem{
+    display: block;
+    margin: auto;
 }
